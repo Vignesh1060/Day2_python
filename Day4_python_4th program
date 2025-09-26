@@ -33,6 +33,9 @@ Sample Input 2
 Sample Output 2
 
 Invalid Input
+
+
+
 Code:
 n = int(input())
 if n < 0:
