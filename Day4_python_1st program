@@ -24,6 +24,8 @@ Sample Input 1
 Sample Output 1
 
 The sum of Range value from 5 to 10 is 45.0
+
+
 Code:
 a = int(input())
 b = int(input())
