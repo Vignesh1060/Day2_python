@@ -22,10 +22,12 @@ Sample Input 1
 Sample Output 1
 
 Number series from 1 to 8 is 2 3 4 6 6 9 8 12
+
+
+
 Code:
 n = int(input())
 series = [2, 3, 4, 6, 6, 9, 8, 12]
 print(f"Number series from 1 to {n} is", end=" ")
-
 for i in range(n):
     print(series[i], end=" ")
